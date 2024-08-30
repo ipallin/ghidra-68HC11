@@ -8,5 +8,3 @@ This repository should be placed within the Ghidra install as the folder `Ghidra
 Created based on the M68HC11 Reference Manual (`M68HC11RM/D Rev. 6.1`) which can be found [here](https://www.nxp.com/docs/en/reference-manual/M68HC11RM.pdf).
 
 ## Credits
-- The already existing HCS08 and HCS12 processor specifications in ghidra, which this is based on.
-- [@Pokechu22](https://github.com/Pokechu22) for the installation instructions I copied from [ghidra-gcdsp-lang](https://github.com/Pokechu22/ghidra-gcdsp-lang).
